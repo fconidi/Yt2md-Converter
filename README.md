@@ -14,6 +14,8 @@ Convert YouTube video links to formatted Markdown code for GitHub README files
 ---
 ---
 ## English
+---
+---
 
 ### Description
 
@@ -213,11 +215,13 @@ MIT License - See LICENSE file for details
 
 Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
 
-
 ---
-
+---
+---
 ## Italiano
-
+---
+---
+---
 ### Descrizione
 
 Suite completa di strumenti per convertire link di video YouTube in codice Markdown formattato, perfetto per documentazione tecnica, file README di GitHub e blog.
