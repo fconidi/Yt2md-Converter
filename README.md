@@ -9,11 +9,10 @@ Convert YouTube video links to formatted Markdown code for GitHub README files
 ---
 ---
 
-
 <img width="512" height="512" alt="yt2md-icon" src="https://github.com/user-attachments/assets/b48b5be7-24c4-41e5-949f-1f30826c7636" />
 
-
-
+---
+---
 ## English
 
 ### Description
