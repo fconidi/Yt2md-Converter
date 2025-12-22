@@ -423,8 +423,8 @@ MIT License - Vedi file LICENSE per dettagli
 - **Documentation:** See docs/ folder
 - **Changelog:** CHANGELOG.md
 
-
-### Autore
+### Author
 
 Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
+
 ---
