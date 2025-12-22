@@ -22,8 +22,8 @@ Convert YouTube video links to formatted Markdown code for GitHub README files
 A comprehensive suite of tools to convert YouTube video links into formatted Markdown code, perfect for technical documentation, GitHub README files, and blogs.
 
 **Available in 4 versions:**
-- Simple CLI (recommended)
-- GUI with graphical interface
+- Simple CLI
+- GUI with graphical interface (recommended)
 - Offline CLI with options
 - Advanced CLI
 
@@ -229,8 +229,8 @@ Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Co
 Suite completa di strumenti per convertire link di video YouTube in codice Markdown formattato, perfetto per documentazione tecnica, file README di GitHub e blog.
 
 **Disponibile in 4 versioni:**
-- CLI semplice (consigliato)
-- GUI con interfaccia grafica
+- CLI semplice
+- GUI con interfaccia grafica (consigliato)
 - CLI offline con opzioni
 - CLI avanzato
 
