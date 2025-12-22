@@ -28,17 +28,6 @@ A comprehensive suite of tools to convert YouTube video links into formatted Mar
 - Advanced CLI
 
 
-### Quick Start
-
-```bash
-bash yt2md.sh VIDEO_ID "TITLE" "AUTHOR"
-```
-
-**Output:**
-```markdown
-[![TITLE](thumbnail)](url)
-```
-
 ### Installation
 
 **Requirements:**
@@ -54,7 +43,20 @@ bash yt2md.sh --help
 
 ### Usage
 
-#### 1. yt2md.sh - Simple CLI (Recommended)
+### Quick Start
+
+```bash
+bash yt2md.sh VIDEO_ID "TITLE" "AUTHOR"
+```
+
+**Output:**
+```markdown
+[![TITLE](thumbnail)](url)
+```
+
+
+
+#### 1. yt2md.sh - Simple CLI
 
 ```bash
 bash yt2md.sh VIDEO_ID "TITLE" ["AUTHOR"]
@@ -83,7 +85,7 @@ bash yt2md.sh -f table dQw4w9WgXcQ "Video" "Author"
 bash yt2md.sh -o output.md VIDEO_ID "Title" "Author"
 ```
 
-#### 2. yt2md-gui.sh - Graphical Interface
+#### 2. yt2md-gui.sh - Graphical Interface (Recommended)
 
 ```bash
 bash yt2md-gui.sh
@@ -233,17 +235,6 @@ Suite completa di strumenti per convertire link di video YouTube in codice Markd
 - CLI avanzato
 
 
-### Avvio Rapido
-
-```bash
-bash yt2md.sh VIDEO_ID "TITOLO" "AUTORE"
-```
-
-**Output:**
-```markdown
-[![TITOLO](thumbnail)](url)
-```
-
 ### Installazione
 
 **Requisiti:**
@@ -258,6 +249,17 @@ bash yt2md.sh --help
 ```
 
 ### Utilizzo
+
+### Avvio Rapido
+
+```bash
+bash yt2md.sh VIDEO_ID "TITOLO" "AUTORE"
+```
+
+**Output:**
+```markdown
+[![TITOLO](thumbnail)](url)
+```
 
 #### 1. yt2md.sh - CLI Semplice
 
