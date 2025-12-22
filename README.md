@@ -1,10 +1,18 @@
 # Yt2md-Converter YouTube to Markdown Converter
 
 Convert YouTube video links to formatted Markdown code for GitHub README files
+---
+---
 
 [English](#english) | [Italiano](#italiano)
 
 ---
+---
+
+
+<img width="512" height="512" alt="yt2md-icon" src="https://github.com/user-attachments/assets/b48b5be7-24c4-41e5-949f-1f30826c7636" />
+
+
 
 ## English
 
@@ -38,7 +46,7 @@ bash yt2md.sh VIDEO_ID "TITLE" "AUTHOR"
 
 **Installation:**
 ```bash
-git clone https://github.com/username/yt2md.git
+git clone https://github.com/fconidi/Yt2md-Converter
 cd yt2md
 bash yt2md.sh --help
 ```
@@ -204,7 +212,7 @@ MIT License - See LICENSE file for details
 
 ### Author
 
-Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant Blogger Linux Developer https://francoconidi.it https://syslinuxos.com
+Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
 
 
 ---
@@ -241,7 +249,7 @@ bash yt2md.sh VIDEO_ID "TITOLO" "AUTORE"
 
 **Installazione:**
 ```bash
-git clone https://github.com/fconidi/yt2md.git
+git clone https://github.com/fconidi/Yt2md-Converter
 cd yt2md
 bash yt2md.sh --help
 ```
@@ -406,7 +414,7 @@ MIT License - Vedi file LICENSE per dettagli
 
 ### Autore
 
-Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant Blogger Linux Developer https://francoconidi.it https://syslinuxos.com
+Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
 
 
 ### System Requirements
@@ -503,13 +511,13 @@ done
 
 ## Links
 
-- **Repository:** https://github.com/fconidi/yt2md
-- **Issues:** https://github.com/username/yt2md/issues
+- **Repository:** https://github.com/fconidi/Yt2md-Converter
+- **Issues:** https://github.com/fconidi/Yt2md-Converter/issues
 - **Documentation:** See docs/ folder
 - **Changelog:** CHANGELOG.md
 
 ---
 
-**Author:** Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant Blogger Linux Developer https://francoconidi.it https://syslinuxos.com
+**Author:** Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
 
 ---
