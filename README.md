@@ -215,7 +215,7 @@ MIT License - See LICENSE file for details
 
 ### Author
 
-Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
+Franco Conidi aka Edmond - Senior System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
 
 ---
 ---
@@ -425,6 +425,6 @@ MIT License - Vedi file LICENSE per dettagli
 
 ### Author
 
-Franco Conidi aka Edmond - SysLinuxOS System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
+Franco Conidi aka Edmond - Senior System Integrator, Network Engineer, IT Consultant, Blogger, Linux Developer https://francoconidi.it https://syslinuxos.com
 
 ---
