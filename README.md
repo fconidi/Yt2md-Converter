@@ -55,7 +55,6 @@ bash yt2md.sh VIDEO_ID "TITLE" "AUTHOR"
 ```
 
 
-
 #### 1. yt2md.sh - Simple CLI
 
 ```bash
@@ -175,13 +174,6 @@ while IFS='|' read -r id title author; do
 done < videos.txt
 ```
 
-### Testing
-
-```bash
-bash test-all.sh
-```
-
-
 ### Troubleshooting
 
 **Script doesn't work:**
@@ -207,7 +199,6 @@ bash yt2md.sh VIDEO_ID "Title with spaces" "Author"
 | File | Description |
 |------|-------------|
 | README.md | This file |
-| test-all.sh | Automated tests |
 
 ### License
 
@@ -380,12 +371,6 @@ while IFS='|' read -r id titolo autore; do
 done < video.txt
 ```
 
-### Test
-
-```bash
-bash test-all.sh
-```
-
 ### Risoluzione Problemi
 
 **Lo script non funziona:**
@@ -411,7 +396,6 @@ bash yt2md.sh VIDEO_ID "Titolo con spazi" "Autore"
 | File | Descrizione |
 |------|-------------|
 | README.md | Questo file |
-| test-all.sh | Test automatici |
 
 ### Licenza
 
